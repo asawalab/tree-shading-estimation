@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# IDE and operating system
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Local data and generated results
+data/
+outputs/
+**/01 Panorama calibration/
+**/02 Fisheye images/
+**/03 Binarized images/
+**/04 Sun path/
+**/05 Window Direct Gain/
+**/06 Radiation Results/
+
+# Local configuration variants
+config_local.py
+

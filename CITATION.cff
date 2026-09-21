@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated journal article."
+title: "Tree Shading Estimation"
+type: software
+version: 1.0.0
+date-released: 2026-09-20
+license: CC-BY-NC-4.0
+authors:
+  - family-names: Dong
+    given-names: Feifei
+  - family-names: Asawa
+    given-names: Takashi
+  - family-names: Kawai
+    given-names: Hidenori
+repository-code: "https://github.com/asawalab/tree-shading-estimation"
+preferred-citation:
+  type: article
+  title: "Image-based method for estimating vertical solar irradiance on building windows under tree shading"
+  authors:
+    - family-names: Dong
+      given-names: Feifei
+    - family-names: Asawa
+      given-names: Takashi
+    - family-names: Kawai
+      given-names: Hidenori
+  journal: "Building and Environment"
+  year: 2026
+  doi: "10.1016/j.buildenv.2026.115262"
